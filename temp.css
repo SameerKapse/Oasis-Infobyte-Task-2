@@ -2,7 +2,7 @@
 body{
      align-items:center ;
     background-image: url("bg.jpg");
-    background-size: cover;
+    background-size: contain;
 }
 * {
     padding: 0;   
